@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marvel</string>
+
+    <string name="personagens">Personagens</string>
+    <string name="opcoes">Opções</string>
+
+    <string name="warning_internet">Não há conexão com internet</string>
+    <string name="warning_aguarde">Aguarde</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
